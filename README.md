@@ -1,5 +1,6 @@
 # #000000
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?-Jiyeon_Hur-style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiyeon-hur-04a48923b/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiyeon-hur-04a48923b/) Jiyeon Hur
+
 
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
 
