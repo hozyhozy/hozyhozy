@@ -6,9 +6,7 @@
 
 👋 Hi there! I'm a business analyst with a passion for analyzing customer experience. 
 
-
 I'm currently enthusiastic about data visualization and statistics🎯
-
 
 Through my work, I explore online review data to uncover valuable insights.
 
