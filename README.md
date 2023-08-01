@@ -1,10 +1,15 @@
 # #000000
-<img src="https://img.shields.io/badge/Linkedin-0A66C2?-Jiyeon_Hur-style=flat-square&logo=Linkedin&logoColor=white"/>
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?-Jiyeon_Hur-style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiyeon-hur-04a48923b/)
+
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
 
 
 👋 Hi there! I'm a business analyst with a passion for analyzing customer experience. 
+
+
 I'm currently enthusiastic about data visualization and statistics🎯
+
+
 Through my work, I explore online review data to uncover valuable insights.
 
 
