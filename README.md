@@ -1,6 +1,7 @@
 # #000000
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?-Jiyeon_Hur-style=flat-square&logo=Linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
+
 
 👋 Hi there! I'm a business analyst with a passion for analyzing customer experience. 
 I'm currently enthusiastic about data visualization and statistics🎯
@@ -25,6 +26,8 @@ Here are some ideas to get you started:
 
 ### 🤓 Skills
 Languages
+
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
