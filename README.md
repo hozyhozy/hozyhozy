@@ -1,8 +1,9 @@
 # #000000
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiyeon-hur-04a48923b/) Jiyeon Hur
+[![Linkedin](https://img.shields.io/badge/Linkedin-Jiyeon_Hur-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiyeon-hur-04a48923b/)
 
 
-<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linkedin-Ji0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
 
 
 👋 Hi there! I'm a business analyst with a passion for analyzing customer experience. 
