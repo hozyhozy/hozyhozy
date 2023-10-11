@@ -1,5 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Jiyeon_Hur-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiyeon-hur-04a48923b/)
-[![Gmail](https://img.shields.io/badge/Gmail-jinny6290@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:heojiyeon892@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-heojiyeon892@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:heojiyeon892@gmail.com)
 [![Tistory](https://img.shields.io/badge/Tistory-JEE의기록장-FF5722?style=flat-square&logo=Tistory&logoColor=white)](https://hozyhozy.tistory.com/)
 
 
